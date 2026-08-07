@@ -1,0 +1,11 @@
+#Esto es un comentario 
+#Como restringir carpetas
+/Fotos
+
+
+#Como restringir archivos
+.env
+
+#Como retringir extensiones de archivos 
+*.log
+*.temp
